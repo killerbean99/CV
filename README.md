@@ -12,7 +12,7 @@ This website is a simple portfolio that tells who I am, what I can do, and how t
 - GitHub Pages
 
 ## Website link
-👉 https://killerbean99.github.io/cv/
+👉 https://killerbean99.github.io/CV/
 
 ## Author
 **Name:** Yelara
