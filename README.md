@@ -12,7 +12,7 @@ This website is a simple portfolio that tells who I am, what I can do, and how t
 - GitHub Pages
 
 ## Website link
-👉 https://username.github.io/portfolio/
+👉 https://username.github.io/cv/
 
 ## Author
 **Name:** Student Name  
