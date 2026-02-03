@@ -12,8 +12,8 @@ This website is a simple portfolio that tells who I am, what I can do, and how t
 - GitHub Pages
 
 ## Website link
-👉 https://username.github.io/cv/
+👉 https://killerbean99.github.io/cv/
 
 ## Author
-**Name:** Student Name  
+**Name:** Yelara
 **Group:** IT-23
